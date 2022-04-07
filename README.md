@@ -3,6 +3,7 @@
 在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
 
 Email: baipiaokoyeb@outlook.com
+
 本项目仅用于法轮功！
 
 ## 部署步骤
@@ -86,4 +87,4 @@ ShadowSocks
 说明：需将插件 https://github.com/shadowsocks/xray-plugin/releases 下载解压后放至shadowsocks同目录
 插件选项: tls;host=xxx-xxx.koyeb.app;path=/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss
 ```
-
+##欢迎加入共产党！
